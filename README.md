@@ -41,4 +41,4 @@ A modern personal blog created using NextJs and Typescript. Supports markdown fo
 
 ---
 
-⭐ From [Mark Kiprotich](https://github.com/davidkiplangat)
+⭐ From [David Kiplangat](https://github.com/davidkiplangat)
